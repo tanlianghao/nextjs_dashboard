@@ -1,4 +1,5 @@
 {
     "editor.formatOnSave": true,
-    "editor.formatOnSaveMode": "modificationsIfAvailable"
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "typescript.implementationsCodeLens.enabled": true
 }
